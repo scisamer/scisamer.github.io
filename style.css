@@ -1,7 +1,7 @@
 body {
   font-family: Source Sans Pro;
   background: #282828;
-  background: linear-gradient(-45deg, #EE5752, #E73C7E, #23A6D5, #23D5AB);
+  background: linear-gradient(-45deg, #f5130c, #ffa344, #23A6D5, #23D5AB);
   background-size: 400% 400%;
   animation: Gradient 15s ease infinite;
 }
@@ -20,7 +20,7 @@ body {
 
 h1 {
   font-weight: lighter;
-  font-size: 80px;
+  font-size: 50px;
   color: #fff;
   text-align: center;
   padding-top: 50px;
@@ -56,7 +56,7 @@ p {
 
 li {
   list-style: none;
-  margin: 10px 30px;
+  margin: 15px 2px 9px 9px;
   display: inline-block;
   font-size: 20px;
   padding: 20px 20px;
@@ -76,7 +76,7 @@ li:hover {
   /* For mobile phones: */
   li {
   list-style: none;
-  margin: 0px 5px 10px 10px;
+  margin: 15px 2px 9px 9px;
   display: inline-block;
   font-size: 20px;
   padding: 20px 20px;
